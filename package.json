@@ -1,5 +1,5 @@
 {
-  "name": "videojs-contrib-media-sources",
+  "name": "videojs-contrib-media-sources-s1",
   "version": "2.4.4",
   "description": "A Media Source Extensions plugin for video.js",
   "main": "es5/videojs-contrib-media-sources.js",
